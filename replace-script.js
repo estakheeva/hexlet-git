@@ -1,4 +1,4 @@
-let s = "abcdef";
+let s = "changes";
 let result = "";
 
 for (let i = 0; i < s.length; i += 2) {
@@ -9,4 +9,5 @@ for (let i = 0; i < s.length; i += 2) {
     }
 }
 
-console.log(result); // Выведет: "badcfe"
+console.log(result); // Выведет: "hcnaegs"
+

@@ -7,4 +7,4 @@ console.log(sum); // 100
 // среднее
 const avg = numbers.reduce((acc, num, _, arr) => acc + num / arr.length, 0);
 console.log(avg); // 25
-Ramones rules
+//delete ramones
